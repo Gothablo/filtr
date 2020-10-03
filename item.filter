@@ -294,10 +294,10 @@ ItemDisplay[cm3 TABSK42>0]: %PURPLE%Dru Ele Skiller %GRAY%[%ILVL%]
 ItemDisplay[cm3 TABSK48>0]: %PURPLE%Trap Skiller %GRAY%[%ILVL%]
 
 //All Charms
-ItemDisplay[cm3 MAG !ID ILVL>90]: %ORANGE%@@%BLUE% %NAME% %ORANGE%[%ORANGE%%ILVL%%ORANGE%]%ORANGE%@@%
-ItemDisplay[cm1 MAG !ID]: %ORANGE%@@%BLUE% %NAME% %GRAY%[%ILVL%]%ORANGE%@@
-ItemDisplay[cm2 MAG !ID]: %TAN%»»%BLUE% %NAME% %GRAY%[%ILVL%]
-ItemDisplay[cm3 MAG !ID]: %ORANGE%@@%BLUE% %NAME% %GRAY%[%ILVL%]%ORANGE%@@
+ItemDisplay[cm3 MAG !ID ILVL>90]: %ORANGE%@@%BLUE% %NAME%%ORANGE%[%ORANGE%%ILVL%%ORANGE%]%ORANGE% @@
+ItemDisplay[cm1 MAG !ID]: %ORANGE%@@%BLUE% %NAME%%GRAY%[%ILVL%]%ORANGE% @@
+ItemDisplay[cm2 MAG !ID]: %TAN%»»%BLUE% %NAME%%GRAY%[%ILVL%]
+ItemDisplay[cm3 MAG !ID]: %ORANGE%@@%BLUE% %NAME%%GRAY%[%ILVL%]%ORANGE% @@
 ItemDisplay[cm3 MAG ILVL>90]: %NAME% %ORANGE%[%ORANGE%%ILVL%%ORANGE%]
 ItemDisplay[cm1 OR cm2 OR cm3]: %NAME% %GRAY%[%ILVL%]
 
