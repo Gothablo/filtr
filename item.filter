@@ -100,13 +100,20 @@ ItemDisplay[r32]: %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%CHAM 32%RED% ¤¤¤¤¤¤¤�
 ItemDisplay[r33]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤ %PURPLE%ZOD 33%RED% ¤¤¤¤¤¤¤¤¤¤¤¤
 
 //Gems
-ItemDisplay[gcv ]: chipped amethyst
-ItemDisplay[gcw ]: chipped diamond
-ItemDisplay[gcg ]: chipped emerald
-ItemDisplay[gcr ]: chipped ruby
-ItemDisplay[gcb ]: chipped sapphire
-ItemDisplay[gcy ]: chipped topaz
-ItemDisplay[skc ]: chipped skull
+ItemDisplay[gcv CLVL<20 ]: chipped amethyst
+ItemDisplay[gcw CLVL<20]: chipped diamond
+ItemDisplay[gcg CLVL<20]: chipped emerald
+ItemDisplay[gcr CLVL<20]: chipped ruby
+ItemDisplay[gcb CLVL<20]: chipped sapphire
+ItemDisplay[gcy CLVL<20]: chipped topaz
+ItemDisplay[skc CLVL<20]: chipped skull
+ItemDisplay[gcv CLVL>21]: 
+ItemDisplay[gcw CLVL>21]: 
+ItemDisplay[gcg CLVL>21]: 
+ItemDisplay[gcr CLVL>21]: 
+ItemDisplay[gcb CLVL>21]: 
+ItemDisplay[gcy CLVL>21]: 
+ItemDisplay[skc CLVL>21]: 
 //Gems Flawed
 ItemDisplay[gfv CLVL<30]: flawed amethyst
 ItemDisplay[gfw CLVL<30]: flawed diamond
@@ -115,28 +122,28 @@ ItemDisplay[gfr CLVL<30]: flawed ruby
 ItemDisplay[gfb CLVL<30]: flawed sapphire
 ItemDisplay[gfy CLVL<30]: flawed topaz
 ItemDisplay[skf CLVL<30]: flawed skull
-ItemDisplay[gfv CLVL>29]:
-ItemDisplay[gfw CLVL>29]:
-ItemDisplay[gfg CLVL>29]:
-ItemDisplay[gfr CLVL>29]:
-ItemDisplay[gfb CLVL>29]:
-ItemDisplay[gfy CLVL>29]:
-ItemDisplay[skf CLVL>29]:
+ItemDisplay[gfv CLVL>31]:
+ItemDisplay[gfw CLVL>31]:
+ItemDisplay[gfg CLVL>31]:
+ItemDisplay[gfr CLVL>31]:
+ItemDisplay[gfb CLVL>31]:
+ItemDisplay[gfy CLVL>31]:
+ItemDisplay[skf CLVL>31]:
 //Gems Normal
-ItemDisplay[gsv CLVL<81]: amethyst
-ItemDisplay[gsw CLVL<81]: diamond
-ItemDisplay[gsg CLVL<81]: emerald
-ItemDisplay[gsr CLVL<81]: ruby
-ItemDisplay[gsb CLVL<81]: sapphire
-ItemDisplay[gsy CLVL<81]: topaz
-ItemDisplay[sku CLVL<81]: skull
-ItemDisplay[gsv CLVL>80]:
-ItemDisplay[gsw CLVL>80]:
-ItemDisplay[gsg CLVL>80]:
-ItemDisplay[gsr CLVL>80]:
-ItemDisplay[gsb CLVL>80]:
-ItemDisplay[gsy CLVL>80]:
-ItemDisplay[sku CLVL>80]:
+ItemDisplay[gsv CLVL<70]: amethyst
+ItemDisplay[gsw CLVL<70]: diamond
+ItemDisplay[gsg CLVL<70]: emerald
+ItemDisplay[gsr CLVL<70]: ruby
+ItemDisplay[gsb CLVL<70]: sapphire
+ItemDisplay[gsy CLVL<70]: topaz
+ItemDisplay[sku CLVL<70]: skull
+ItemDisplay[gsv CLVL>71]:
+ItemDisplay[gsw CLVL>71]:
+ItemDisplay[gsg CLVL>71]:
+ItemDisplay[gsr CLVL>71]:
+ItemDisplay[gsb CLVL>71]:
+ItemDisplay[gsy CLVL>71]:
+ItemDisplay[sku CLVL>71]:
 //Gems flawless
 ItemDisplay[gzv]: %ORANGE%»%PURPLE%AMETHYST
 ItemDisplay[glw]: %ORANGE%»%WHITE%DIAMOND
