@@ -96,8 +96,8 @@ ItemDisplay[r28]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %PURPLE%LO 28%RED% ¤¤�
 ItemDisplay[r29]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %PURPLE%SUR 29%RED% ¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[r30]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %PURPLE%BER 30%RED% ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[r31]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %PURPLE%JAH 31%RED% ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[r32]: %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%CHAM 32%RED% ¤¤¤¤¤¤¤¤¤¤
-ItemDisplay[r33]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤ %PURPLE%ZOD 33%RED% ¤¤¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[r32]: %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%CHAM %GREEN%32%RED% ¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[r33]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤ %PURPLE%ZOD %GREEN%33%RED% ¤¤¤¤¤¤¤¤¤¤¤¤
 
 //Gems
 ItemDisplay[gcv CLVL<20 ]: chipped amethyst
